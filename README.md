@@ -1,6 +1,14 @@
 # OKX-Python.Trading.Spot-Tutorial.Article-Chinese
 OKX-Python交易现货-官方教程文章-中文翻译
 
+
+## 原文链接
+
+[OKX Learn-Tutorials-Article | How to trade spot on a Jupyter Notebook: Pt. 1](https://www.okx.com/learn/spot-trading-with-jupyter-notebook)
+
+[OKX Learn-Tutorials-Article | How to trade derivatives on a Jupyter Notebook: Pt. 2](https://www.okx.com/learn/derivatives-trading-with-jupyter-notebook)
+
+
 ## 如何在 Jupyter Notebook 上交易现货：Pt.1
 
 ### 本教程将向您介绍如何通过在 Jupyter Notebook 上调用 python-okx 库中的函数来进行简单的现货交易。
