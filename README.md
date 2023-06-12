@@ -151,6 +151,9 @@ FDBroker
 以下是以19,000 USDT的价格购买0.01 BTC的示例。
 
 
+![API90](https://github.com/yanboishere/OKX-Python.Trading.Spot-Tutorial.Article-Chinese/assets/76860915/393fd019-20dc-4547-bcc5-d34beadd4b32)
+
+
 如何下限价单
 2. 如何下市价单
 有关如何在简单或单币种保证金账户模式下下市价单的更多信息，请阅读我们的专门指南。
