@@ -8,6 +8,11 @@ OKX-Python交易现货-官方教程文章-中文翻译
 
 [OKX Learn-Tutorials-Article | How to trade derivatives on a Jupyter Notebook: Pt. 2](https://www.okx.com/learn/derivatives-trading-with-jupyter-notebook)
 
+<br>
+<br>
+<br>
+
+---
 
 ## 如何在 Jupyter Notebook 上交易现货：Pt.1
 
