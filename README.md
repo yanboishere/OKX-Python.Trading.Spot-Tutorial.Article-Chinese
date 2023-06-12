@@ -106,16 +106,15 @@ FDBroker
     result = marketDataAPI.grt_tickets(instType="SPOT")
     print(result)
 
-### 如何访问OKX市场数据
-如何阅读我们提供的交易对
+### 如何阅读我们的交易对
+
 有关如何阅读我们提供的[交易对的更多信息](https://www.okx.com/docs-v5/en/#rest-api-public-data-get-instruments)，请阅读我们的专门指南。
 
 ![API60](https://github.com/yanboishere/OKX-Python.Trading.Spot-Tutorial.Article-Chinese/assets/76860915/0bf36a65-f06a-4bdc-a075-1adc28be9d20)
 
 
 
-### 如何阅读我们的交易对
-如何读取您的账户余额
+### 如何读取您的账户余额
 有关如何读取您的[账户余额的更多信息](https://www.okx.com/docs-v5/en/#rest-api-account-get-balance)，请阅读我们的专门指南。
 
 注意：在tdMode下进行现货交易，您主要需要检查每个ccy下的cashBal、frozenBal参数以及details，以及totalEq参数。
